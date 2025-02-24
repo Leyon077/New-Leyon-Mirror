@@ -42,5 +42,4 @@ uvloop
 xattr
 yt-dlp[default]
 asks
-asks>=2.2.0
 mega
