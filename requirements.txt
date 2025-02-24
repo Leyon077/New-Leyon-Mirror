@@ -41,7 +41,3 @@ uv
 uvloop
 xattr
 yt-dlp[default]
-pytz
-aioaria2
-aioqbt
-mega
