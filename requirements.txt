@@ -41,3 +41,4 @@ uv
 uvloop
 xattr
 yt-dlp[default]
+asks>=2.2.0
