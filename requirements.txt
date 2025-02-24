@@ -42,3 +42,4 @@ uvloop
 xattr
 yt-dlp[default]
 pytz
+aioaria2
