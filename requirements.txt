@@ -24,7 +24,6 @@ lxml
 motor
 mutagen
 markdown
-mega
 natsort
 pillow
 psutil
@@ -59,4 +58,3 @@ uvicorn
 uvloop
 xattr
 yt-dlp[default,curl-cffi]
-asks>=2.2.0
